@@ -6,7 +6,7 @@
 ## Dataset Description
 
 #### THE BIG LIST
-The Big List is a list of reviews for ramen products across different brands and countries. The dataset can be found on THE RAMEN RATER(The Big List [https://www.theramenrater.com/resources-2/the-list/]. The dataset contains 4120 rows of reviewed Ramen products across 7 different properties(columns) which are Review #,Brand,Variety,Style,Country,Stars,T. 
+The Big List is a list of reviews for ramen products across different brands and countries. The dataset can be found on THE RAMEN RATER([The Big List](https://www.theramenrater.com/resources-2/the-list/). The dataset contains 4120 rows of reviewed Ramen products across 7 different properties(columns) which are Review #,Brand,Variety,Style,Country,Stars,T. 
 
 Some background: these reviews are based on the personal preferences of the owner of The Ramen Rater, not on sales of popularity. Scores are in .25 increments – rounding is NOT recommended. Think of letter grading; a 3.5 score out of 5 stars – (3.5 * 2) * 10 = 70 = C. So, rounding a 3.5 to a 4.0 doesn’t reflect it correctly.
 
